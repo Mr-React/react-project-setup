@@ -26,9 +26,9 @@ React project setup using parcel bundler
 9. In index.js file add following code
     import ReactDom from "react-dom/client";
 
-    const App = () => {
+    "const App = () => {
       return <h1>App setup</h1>;
-    };
+    };"
 
     const root = ReactDom.createRoot(document.getElementById("root"));
     root.render(<App />);
