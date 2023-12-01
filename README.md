@@ -29,6 +29,8 @@ React project setup using parcel bundler
     const App = () => {
       return <h1>App setup</h1>;
     };
-    
+
     const root = ReactDom.createRoot(document.getElementById("root"));
     root.render(<App />);
+
+10. Completed the setup process
