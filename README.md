@@ -13,3 +13,10 @@ React project setup using parcel bundler
    /coverage
 
 4. install react and react-dom package using command "npm install react react-dom"
+5. Update package.json file
+    in scripts seection add following line
+        "scripts": {
+            "start": "parcel",
+            "build": "parcel build",
+        }
+
