@@ -11,3 +11,5 @@ React project setup using parcel bundler
    /dist
    .parcel-cache
    /coverage
+
+4. install react and react-dom package using command "npm install react react-dom"
