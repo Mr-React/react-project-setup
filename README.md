@@ -20,3 +20,4 @@ React project setup using parcel bundler
             "build": "parcel build",
         }
 
+6. Add src folder in your root folder and inside it add simple index.html and run "npm start" to check configuratin is working or not.
