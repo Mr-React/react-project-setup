@@ -1,2 +1,2 @@
 # react-project-setup
-react project setup using parcel bundler
+React project setup using parcel bundler
