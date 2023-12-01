@@ -24,13 +24,12 @@ React project setup using parcel bundler
 7. Add index.js file in src folder and in index.html file add script tag with src = "./index.js" and tag type = "module"
 8. In index.html add div tag with id root
 9. In index.js file add following code
+10. ```
     import ReactDom from "react-dom/client";
-
-    "const App = () => {
+    const App = () => {
       return <h1>App setup</h1>;
-    };"
-
+    };
     const root = ReactDom.createRoot(document.getElementById("root"));
     root.render(<App />);
 
-10. Completed the setup process
+11. Completed the setup process
