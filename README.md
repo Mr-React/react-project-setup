@@ -21,3 +21,5 @@ React project setup using parcel bundler
         }
 
 6. Add src folder in your root folder and inside it add simple index.html and run "npm start" to check configuratin is working or not.
+7. Add index.js file in src folder and in index.html file add script tag with src = "./index.js" and tag type = "module"
+8. In index.html add div tag with id root
